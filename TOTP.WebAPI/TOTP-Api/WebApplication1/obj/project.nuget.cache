@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "mwQ+SRXKpSWNEOrOrxXftWLXsAjmWnfpvkhFe9oOyirr2EO4c3+aW066m3eww7uVrY/pLPFoX8Vgeu7wxdi7Dw==",
+  "success": true,
+  "projectFilePath": "D:\\Programs\\TOTP\\TOTP.WebAPI\\TOTP-Api\\WebApplication1\\Totp.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ioanaca\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ioanaca\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ioanaca\\.nuget\\packages\\otp.net\\1.3.0\\otp.net.1.3.0.nupkg.sha512",
+    "C:\\Users\\ioanaca\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\ioanaca\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\ioanaca\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\ioanaca\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

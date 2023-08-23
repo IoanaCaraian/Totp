@@ -1,0 +1,12 @@
+D:\Programs\TOTP\TOTP.WebAPI\TOTP-Api\Business\bin\Debug\net6.0\Business.deps.json
+D:\Programs\TOTP\TOTP.WebAPI\TOTP-Api\Business\bin\Debug\net6.0\Business.dll
+D:\Programs\TOTP\TOTP.WebAPI\TOTP-Api\Business\bin\Debug\net6.0\Business.pdb
+D:\Programs\TOTP\TOTP.WebAPI\TOTP-Api\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+D:\Programs\TOTP\TOTP.WebAPI\TOTP-Api\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\TOTP\TOTP.WebAPI\TOTP-Api\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+D:\Programs\TOTP\TOTP.WebAPI\TOTP-Api\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+D:\Programs\TOTP\TOTP.WebAPI\TOTP-Api\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+D:\Programs\TOTP\TOTP.WebAPI\TOTP-Api\Business\obj\Debug\net6.0\Business.dll
+D:\Programs\TOTP\TOTP.WebAPI\TOTP-Api\Business\obj\Debug\net6.0\refint\Business.dll
+D:\Programs\TOTP\TOTP.WebAPI\TOTP-Api\Business\obj\Debug\net6.0\Business.pdb
+D:\Programs\TOTP\TOTP.WebAPI\TOTP-Api\Business\obj\Debug\net6.0\ref\Business.dll

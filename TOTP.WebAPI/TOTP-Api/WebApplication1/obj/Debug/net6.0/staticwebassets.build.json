@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hPRwE2+qwxhVVnGkDss+HU2xM2ayxNA4ax7PXwSqJqM=",
+  "Source": "Totp.API",
+  "BasePath": "_content/Totp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
