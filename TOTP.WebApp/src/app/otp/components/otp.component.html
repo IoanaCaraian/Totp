@@ -1,0 +1,48 @@
+<div class="block">
+    <mat-card>
+        <mat-card-title>Generate pin code</mat-card-title>
+        <br />
+        <mat-card-content>
+            <p>
+                <mat-form-field appearance="outline">
+                    <mat-label>User id</mat-label>
+                    <input matInput [(ngModel)]="userId" placeholder="User id field">
+                </mat-form-field>
+            </p>
+
+            <div class="button">
+                <button mat-raised-button (click)="generatePinCode()">Generate</button>
+            </div>
+
+            <br />
+
+            <h3>Pin code: {{currentPinCode}}</h3>
+            <h3>Seconds: {{remainingSeconds}}</h3>
+        </mat-card-content>
+    </mat-card>
+</div>
+
+<div class="block">
+    <mat-card>
+        <mat-card-title>Validate pin code</mat-card-title>
+        <br />
+        <mat-card-content>
+            <p>
+                <mat-form-field appearance="outline">
+                    <mat-label>Pin code</mat-label>
+                    <input matInput [(ngModel)]="validationPinCode" placeholder="Pin code">
+                </mat-form-field>
+            </p>
+
+            <div class="button">
+                <button mat-raised-button (click)="verifyPinCode()">Verify</button>
+            </div>
+
+            <br />
+
+            <div *ngIf="validationPinCode && verifyPinCodeSubmitted">
+                <h3>Pin code is {{ isPinCodeValid ? 'valid' : 'invalid'}}</h3>
+            </div>
+        </mat-card-content>
+    </mat-card>
+</div>
